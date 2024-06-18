@@ -7,7 +7,7 @@ I'm a passionate Software Engineering student. I enjoy diving into various techn
 - 🔭 I’m currently learning and working on projects in Java and full-stack web development.
 - 🌱 I’m expanding my skills in React and exploring advanced JavaScript concepts.
 - 💼 Open to collaboration on Java or React projects.
-- 📫 How to reach me: zoabi.coc@gmail.com
+- 📫 How to reach me: range.dev7@gmail.com
 
 ## Skills
 
