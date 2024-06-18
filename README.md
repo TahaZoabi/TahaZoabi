@@ -29,7 +29,7 @@ I'm a passionate Software Engineering student. I enjoy diving into various techn
 ## Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/taha-zoabi-788420306/]
-- Twitter:[https://x.com/iRange_]
+- Twitter:[https://x.com/dev_range]
 - Portfolio: [Your Portfolio Website URL]
 
 Feel free to reach out if you have any questions or want to collaborate on a project!
