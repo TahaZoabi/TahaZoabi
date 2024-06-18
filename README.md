@@ -18,9 +18,13 @@ I'm a passionate Software Engineering student. I enjoy diving into various techn
 
 ## Projects
 
-- **Project 1**: Description of project and technologies used.
-- **Project 2**: Description of project and technologies used.
-- **Project 3**: Description of project and technologies used.
+- **Phone Book Website/App**
+  - Developed a Phone Book application using HTML, CSS, and JavaScript as part of a college project.
+  - Implemented functionalities such as adding contacts, searching for contacts, and deleting contacts.
+  - Ensured responsiveness and user-friendly design using CSS for styling and JavaScript for interactivity.
+  - https://tahazoabi.github.io/Phone-Book/
+
+Feel free to connect with me to discuss software engineering, web development, or collaborative opportunities. I am passionate about leveraging technology to create meaningful solutions and eager to contribute to innovative projects.
 
 ## Education
 
