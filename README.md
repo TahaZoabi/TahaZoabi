@@ -22,7 +22,7 @@ I'm a passionate Software Engineering student with a strong interest in masterin
   - Developed a command-line TODO list application in Java.
   - Implemented features such as adding tasks, marking tasks as complete, and deleting tasks.
   - Utilized Java ArrayList and Scanner for task management and user input.
-  - [GitHub Repository](https://github.com/TahaZoabi/todo-list-java)
+  - [GitHub Repository](https://github.com/TahaZoabi/JAVA-TODO)
 
 - **Phone Book Website/App**
   - Developed a Phone Book application using HTML, CSS, and JavaScript as part of a college project.
@@ -40,7 +40,7 @@ Feel free to connect with me to discuss software engineering, Java development, 
 
 - LinkedIn: [Taha Zoabi](https://www.linkedin.com/in/taha-zoabi-788420306/)
 - Twitter: [Your Twitter Handle](https://twitter.com/your-twitter-handle)
-- Portfolio: [Your Portfolio Website URL]
+- Portfolio: [coming soon]
 
 Feel free to reach out if you have any questions or want to collaborate on a Java project!
 
