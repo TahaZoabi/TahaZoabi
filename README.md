@@ -30,6 +30,11 @@ I'm a passionate Software Engineering student with a strong interest in masterin
   - Ensured responsiveness and user-friendly design using CSS for styling and JavaScript for interactivity.
   - [Live Demo](https://tahazoabi.github.io/Phone-Book/)
 
+- **Password Generator**
+  - Created a command-line password generator in Java that allows users to specify password length and include or exclude uppercase letters, lowercase letters, numbers, and special characters.
+  - Designed the program to be interactive, prompting users for input and generating a secure password based on their preferences.
+  - [GitHub Repository](https://github.com/TahaZoabi/Password-Generator)
+
 Feel free to connect with me to discuss software engineering, Java development, algorithms, or collaborative opportunities. I am passionate about leveraging technology to create meaningful solutions and eager to contribute to innovative projects.
 
 ## Education
@@ -39,7 +44,7 @@ Feel free to connect with me to discuss software engineering, Java development, 
 ## Get in Touch
 
 - LinkedIn: [Taha Zoabi](https://www.linkedin.com/in/taha-zoabi-788420306/)
-- Twitter: [ Twitter ](https://x.com/dev_range)
+- Twitter: [Twitter](https://x.com/dev_range)
 - Portfolio: https://tahazoabi.netlify.app
 
 Feel free to reach out if you have any questions or want to collaborate on a Java project!
