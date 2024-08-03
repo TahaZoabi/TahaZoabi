@@ -43,7 +43,7 @@ Feel free to connect with me to discuss software engineering, Java development, 
 
 ## Get in Touch
 
-- LinkedIn: [Taha Zoabi](https://www.linkedin.com/in/taha-zoabi-788420306/)
+- LinkedIn: [Taha Zoabi](https://www.linkedin.com/in/tahazoabi/)
 - Twitter: [Twitter](https://x.com/dev_range)
 - Portfolio: https://tahazoabi.netlify.app
 
