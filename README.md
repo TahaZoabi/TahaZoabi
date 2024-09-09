@@ -1,20 +1,19 @@
 # Hi there, I'm Taha Zoabi! 👋
 
-I'm a passionate Software Engineering student with a strong interest in mastering Java for algorithms and problem-solving. I enjoy diving into various technologies and frameworks to build exciting projects. Currently, I'm also exploring full-stack web development with HTML, CSS, and JavaScript.
+Aspiring Software Engineer!
 
 ## About Me
 
-- 🔭 I’m currently learning and working on projects in Java and full-stack web development.
-- 🌱 I’m expanding my skills in Java, algorithms, and problem-solving.
-- 💼 Open to collaboration on Java projects and algorithms challenges.
-- 📫 How to reach me: range.dev7@gmail.com
-
+“Enthusiastic and detail-oriented software engineering student with a solid foundation in Java programming. Skilled in building robust applications, applying best coding practices, and problem-solving. Passionate about learning new technologies and contributing to impactful projects.”
 ## Skills
 
-- Programming Languages: Java, JavaScript
-- Web Technologies: HTML5, CSS3
-- IDEs: JetBrains IntelliJ IDEA, WebStorm
-- Version Control: Git
+- JAVA
+- JavaScript
+- HTML && CSS
+- Git && GitHub
+- Linux
+- Virtual Machines
+- Object Orinted Programming
 
 ## Projects
 
@@ -39,7 +38,7 @@ Feel free to connect with me to discuss software engineering, Java development, 
 
 ## Education
 
-- Bachelor of Software Engineering (Expected Graduation: 2026)
+-  Software Practical Engineering at Technion Israel Institute of Technology (Expected Graduation: 2026).
 
 ## Get in Touch
 
