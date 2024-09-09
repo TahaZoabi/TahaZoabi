@@ -1,6 +1,6 @@
 # Hi there, I'm Taha Zoabi! 👋
 
-Aspiring Software Engineer!
+Aspiring Software Engineer (proficient in Java)!
 
 ## About Me
 
