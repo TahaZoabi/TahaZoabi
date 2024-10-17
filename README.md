@@ -21,17 +21,21 @@
   - Focused on performance optimization and responsive design to ensure a smooth user experience across devices.
   - [Live Demo](https://tahazoabi.netlify.app/) | [GitHub Repository](https://github.com/TahaZoabi/portfolio)
 
+- **Phone Book Application**
+  - Developed a Phone Book application using Vite, React, and JavaScript.
+  - Implemented functionalities such as adding contacts, searching for contacts, and deleting contacts.
+  - Ensured a responsive and user-friendly design with CSS and JavaScript for interactivity.
+  - [Live Demo](https://phone-book-v2.netlify.app/) | [GitHub Repository](https://github.com/TahaZoabi/Phone-Book)
+
+- **Quiz Application**
+  - Developed a Java-based quiz application with different difficulty levels.
+  - Included features such as multiple-choice questions, scoring, and user feedback, allowing users to take quizzes and view their results.
+
 - **TODO List Application**
   - Created a command-line TODO list application in Java.
   - Implemented features such as adding tasks, marking them as complete, and deleting tasks.
   - Utilized Java's ArrayList and Scanner for task management and user input.
   - [GitHub Repository](https://github.com/TahaZoabi/JAVA-TODO)
-
-- **Phone Book Application**
-  - Developed a Phone Book application using Vite, React, and JavaScript.
-  - Implemented functionalities such as adding contacts, searching for contacts, and deleting contacts.
-  - Ensured a responsive and user-friendly design with CSS and JavaScript for interactivity.
-  - [Live Demo](https://tahazoabi.github.io/Phone-Book/) | [GitHub Repository](https://github.com/TahaZoabi/Phone-Book)
 
 ## Education
 
@@ -39,20 +43,21 @@
 
 ## Get in Touch
 
-- **Portfolio:** [Your Portfolio](https://tahazoabi.netlify.app/)
+- **Portfolio:** [TahaZoabi](https://tahazoabi.netlify.app/)
 - **LinkedIn:** [Taha Zoabi](https://www.linkedin.com/in/tahazoabi/)
-- **Twitter:** [@dev_range](https://x.com/realrangedev)
+- **Twitter:** [@RealRangeDev](https://x.com/realrangedev)
+
+![tahazoabi's Stats](https://github-readme-stats.vercel.app/api?username=tahazoabi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![tahazoabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahazoabi&theme=tokyonight&hide_border=false)
+
+![tahazoabi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahazoabi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+---
 
 Feel free to connect with me to discuss software engineering, Java development, algorithms, or collaborative opportunities. I am passionate about leveraging technology to create meaningful solutions and eager to contribute to innovative projects.
 
 Happy coding! 🚀
 
- ![tahazoabi's Stats](https://github-readme-stats.vercel.app/api?username=tahazoabi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) 
- 
- ![tahazoabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahazoabi&theme=tokyonight&hide_border=false)
- 
- ![tahazoabi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahazoabi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 --- 
 
-Let me know if you need any further adjustments!
