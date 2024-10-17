@@ -1,51 +1,58 @@
+
+
+---
+
 # Hi there, I'm Taha Zoabi! 👋
 
-Aspiring Software Engineer !
-
-## About Me
+### Aspiring Software Engineer
 
 “Enthusiastic and detail-oriented software engineering student with a solid foundation in Java programming. Skilled in building robust applications, applying best coding practices, and problem-solving. Passionate about learning new technologies and contributing to impactful projects.”
+
 ## Skills
 
-- JAVA
-- JavaScript
-- HTML && CSS
-- Git && GitHub
-- Linux
-- Virtual Machines
-- Object Orinted Programming
+- **Programming Languages:** Java, JavaScript, TypeScript
+- **Web Technologies:** HTML, CSS, React, Vite
+- **Version Control:** Git, GitHub
 
 ## Projects
 
+- **Portfolio Website**
+  - Developed a portfolio site using Vite, React, and TypeScript to showcase my projects and skills.
+  - Focused on performance optimization and responsive design to ensure a smooth user experience across devices.
+  - [Live Demo](https://tahazoabi.netlify.app/) | [GitHub Repository](https://github.com/TahaZoabi/portfolio)
+
 - **TODO List Application**
-  - Developed a command-line TODO list application in Java.
-  - Implemented features such as adding tasks, marking tasks as complete, and deleting tasks.
-  - Utilized Java ArrayList and Scanner for task management and user input.
+  - Created a command-line TODO list application in Java.
+  - Implemented features such as adding tasks, marking them as complete, and deleting tasks.
+  - Utilized Java's ArrayList and Scanner for task management and user input.
   - [GitHub Repository](https://github.com/TahaZoabi/JAVA-TODO)
 
-- **Phone Book Website/App**
-  - Developed a Phone Book application using HTML, CSS, and JavaScript as part of a college project.
+- **Phone Book Application**
+  - Developed a Phone Book application using Vite, React, and JavaScript.
   - Implemented functionalities such as adding contacts, searching for contacts, and deleting contacts.
-  - Ensured responsiveness and user-friendly design using CSS for styling and JavaScript for interactivity.
-  - [Live Demo](https://tahazoabi.github.io/Phone-Book/)
-
-- **Password Generator**
-  - Created a command-line password generator in Java that allows users to specify password length and include or exclude uppercase letters, lowercase letters, numbers, and special characters.
-  - Designed the program to be interactive, prompting users for input and generating a secure password based on their preferences.
-  - [GitHub Repository](https://github.com/TahaZoabi/Password-Generator)
-
-Feel free to connect with me to discuss software engineering, Java development, algorithms, or collaborative opportunities. I am passionate about leveraging technology to create meaningful solutions and eager to contribute to innovative projects.
+  - Ensured a responsive and user-friendly design with CSS and JavaScript for interactivity.
+  - [Live Demo](https://tahazoabi.github.io/Phone-Book/) | [GitHub Repository](https://github.com/TahaZoabi/Phone-Book)
 
 ## Education
 
--  Software Practical Engineering at Technion Israel Institute of Technology (Expected Graduation: 2026).
+- **Software Practical Engineering** at Technion Israel Institute of Technology (Expected Graduation: 2026)
 
 ## Get in Touch
 
-- LinkedIn: [Taha Zoabi](https://www.linkedin.com/in/tahazoabi/)
-- Twitter: [Twitter](https://x.com/dev_range)
+- **Portfolio:** [Your Portfolio](https://tahazoabi.netlify.app/)
+- **LinkedIn:** [Taha Zoabi](https://www.linkedin.com/in/tahazoabi/)
+- **Twitter:** [@dev_range](https://x.com/realrangedev)
 
-
-Feel free to reach out if you have any questions or want to collaborate on a Java project!
+Feel free to connect with me to discuss software engineering, Java development, algorithms, or collaborative opportunities. I am passionate about leveraging technology to create meaningful solutions and eager to contribute to innovative projects.
 
 Happy coding! 🚀
+
+ ![tahazoabi's Stats](https://github-readme-stats.vercel.app/api?username=tahazoabi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) 
+ 
+ ![tahazoabi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahazoabi&theme=tokyonight&hide_border=false)
+ 
+ ![tahazoabi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahazoabi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+--- 
+
+Let me know if you need any further adjustments!
