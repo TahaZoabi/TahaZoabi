@@ -1,7 +1,4 @@
-
-
 ---
-
 # Hi there, I'm Taha Zoabi! 👋
 
 ### Aspiring Software Engineer
@@ -53,11 +50,11 @@
 
 ![tahazoabi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahazoabi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
----
+
 
 Feel free to connect with me to discuss software engineering, Java development, algorithms, or collaborative opportunities. I am passionate about leveraging technology to create meaningful solutions and eager to contribute to innovative projects.
 
 Happy coding! 🚀
 
---- 
+---
 
