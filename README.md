@@ -40,7 +40,7 @@
 
 ## Get in Touch
 
-- **Portfolio:** [TahaZoabi](https://tahazoabi.netlify.app/)
+- **Portfolio:** [TahaZoabi](https://tahazoabi.com/)
 - **LinkedIn:** [Taha Zoabi](https://www.linkedin.com/in/tahazoabi/)
 - **Twitter:** [@RealRangeDev](https://x.com/realrangedev)
 
