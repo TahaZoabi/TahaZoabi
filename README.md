@@ -1,5 +1,20 @@
+
+
 # 💫 About Me:
- Hey there, I'm Taha Zoabi! 👋<br><br>I'm a 25-year-old **Software Engineering student** with a strong passion for backend development. I’m continuously learning and growing in the tech world, and I’m always looking for new challenges to tackle. <br><br>A Little About Me:<br>- **Languages**: Java, JavaScript, TypeScript  <br>- **Tech Stack**: I'm diving deep into **backend development**, focusing on building efficient and scalable applications. Whether it's working with databases, designing APIs, or optimizing server-side logic, I’m honing my skills to deliver clean, high-performance solutions.<br>- **Frontend**: I’ve explored frontend development, but I quickly realized my passion lies in backend architecture. While I appreciate the creativity of frontend, I thrive in solving complex problems on the server side.<br><br> Currently Learning:<br>- Advanced backend frameworks (Node js, Express js)<br>- API design & RESTful services<br>- Database management (SQL, NoSQL)<br><br>I’m always eager to connect with like-minded people, collaborate on interesting projects, or simply exchange knowledge about software development. If you’re looking to build something exciting or just want to chat about code, don’t hesitate to reach out!<br><br>Let’s create something amazing together! 🚀<br><br><br><br>
+Hey there, I'm Taha Zoabi! 👋<br><br>I'm a 25-year-old **Software Engineering student** with a deep curiosity for all things tech. From backend development to automation testing, I love exploring new technologies, solving complex problems, and continuously learning.<br><br> A Little About Me:<br>
+- **Languages**: Java, JavaScript, TypeScript, C#, Python<br>
+- **Tech Stack**: I enjoy working on a wide range of projects, from building efficient backend systems to designing robust automation tests. I’m passionate about delivering clean, scalable solutions that make a real impact.<br>
+- **Interests**: I have experience in both frontend and backend development, but my primary focus is on creating well-rounded software solutions. I’m also diving into **automation testing** to ensure that applications are reliable, performant, and bug-free.<br><br>
+
+### Currently Learning:
+- **C#** and **Python** for building applications and automation
+- Automation testing 
+- **API design & RESTful services**
+- **Database management** (SQL, NoSQL)<br><br>
+
+I’m always eager to connect with others who share the same enthusiasm for tech and innovation. Whether you're working on a new project, looking to collaborate, or just want to chat about coding and tech, feel free to reach out!<br><br>Let’s create something amazing together! 🚀<br><br>
+
+
  
 
 
